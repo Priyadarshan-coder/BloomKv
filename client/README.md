@@ -1,14 +1,12 @@
-# User Search UI
+# Username Checker
 
-can you make me a ui in react for a search bar where i would like to type usernames
+make a react app , use function based not class based, write minimal code, we will be calling the localhost:8000/api/search with the username in the body and show the text username available or not based on api response true or false:
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://user-search-party.lovable.app
-
 ## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/1b0d26d7-1fb0-4a14-b821-d5999a38b6d8).
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/12818ca7-fcbd-455c-ba7b-46279087e645).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
